@@ -12,5 +12,5 @@ Administración de Sistemas Informáticos en Red (ASIR) – Modalidad Dual.
 - Desarrollo web (HTML y CSS)
 - Introducción a la Ciberseguridad
 
-- # Autor
+# Autor
 Jesús Vargas Gil
