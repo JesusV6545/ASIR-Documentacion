@@ -14,6 +14,3 @@ Administración de Sistemas Informáticos en Red (ASIR) – Modalidad Dual.
 
 # Autor
 Jesús Vargas Gil
-
-Redes.md
-hola
